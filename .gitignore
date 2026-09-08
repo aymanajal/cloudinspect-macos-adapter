@@ -1,0 +1,25 @@
+# This repository contains adaptation source ONLY.
+.DS_Store
+__pycache__/
+*.pyc
+*.class
+*.jar
+*.zip
+*.dmg
+*.db
+*.key
+*.log
+*.png
+.env*
+macos/
+CloudInspect/
+runtime/
+app/
+config/
+resources/
+install/
+download/
+logs/
+diagnostics/
+output/
+.cloudinspect-build-*/
